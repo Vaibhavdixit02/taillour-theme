@@ -12,6 +12,10 @@
     "product": {
       "type": "main-product",
       "blocks": {
+        "business_ai_pdp_pills_rHw6CM": {
+          "type": "shopify://apps/business-ai/blocks/pdp-pills/0199ac95-22c8-7723-950f-e2b2687d5ee3",
+          "settings": {}
+        },
         "title_kGVXCN": {
           "type": "title",
           "settings": {
@@ -40,10 +44,6 @@
         },
         "prices_zbB86G": {
           "type": "prices",
-          "settings": {}
-        },
-        "business_ai_pdp_pills_rBfEWY": {
-          "type": "shopify://apps/business-ai/blocks/pdp-pills/0199ac95-22c8-7723-950f-e2b2687d5ee3",
           "settings": {}
         },
         "button_bNUm3G": {
@@ -95,13 +95,13 @@
         }
       },
       "block_order": [
+        "business_ai_pdp_pills_rHw6CM",
         "title_kGVXCN",
         "rule_PabNze",
         "sku_waYyYi",
         "text_VgqAwb",
         "options_je9wUj",
         "prices_zbB86G",
-        "business_ai_pdp_pills_rBfEWY",
         "button_bNUm3G",
         "rule_VKccTF",
         "product_wtgCmw",
