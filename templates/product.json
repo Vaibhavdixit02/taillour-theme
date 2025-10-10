@@ -28,6 +28,10 @@
             "label": "SKU:"
           }
         },
+        "business_ai_pdp_pills_rBfEWY": {
+          "type": "shopify://apps/business-ai/blocks/pdp-pills/0199ac95-22c8-7723-950f-e2b2687d5ee3",
+          "settings": {}
+        },
         "text_VgqAwb": {
           "type": "text",
           "settings": {
@@ -94,6 +98,7 @@
         "title_kGVXCN",
         "rule_PabNze",
         "sku_waYyYi",
+        "business_ai_pdp_pills_rBfEWY",
         "text_VgqAwb",
         "options_je9wUj",
         "prices_zbB86G",
